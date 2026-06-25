@@ -21,8 +21,8 @@ Environment variables read by this plugin (extracted from the source — see the
 
 | Env var |
 |---|
-| `GEMINI_API_KEY"` |
-| `GOOGLE_API_KEY"` |
+| `GEMINI_API_KEY` |
+| `GOOGLE_API_KEY` |
 
 ## Usage
 
